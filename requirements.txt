@@ -21,7 +21,8 @@ fredapi==0.5.1
 feedparser==6.0.11
 
 # Data processing
-pandas
+pandas>=2.1.2
+
 polars==0.20.22
 pyarrow==16.0.0
 
